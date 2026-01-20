@@ -1,0 +1,12 @@
+[submodule "swift"]
+	path = swift
+	url = git@github.com:pilgrimagesoftware/dtrpg-api.swift.git
+[submodule "rust"]
+	path = rust
+	url = git@github.com:pilgrimagesoftware/dtrpg-api.rs.git
+[submodule "python"]
+	path = python
+	url = git@github.com:pilgrimagesoftware/dtrpg-api.py.git
+[submodule "go"]
+	path = go
+	url = git@github.com:pilgrimagesoftware/dtrpg-api.go.git
