@@ -1,3 +1,3 @@
-# DriveThruRPG SDK
+# DriveThruRPG application
 
-Meta-repository for DriveThru RPG SDK libraries for various languages
+Meta-repository to organize DTRPG desktop applications
