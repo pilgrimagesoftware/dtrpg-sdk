@@ -1,3 +1,3 @@
-# DriveThruRPG Client
+# DriveThruRPG SDK
 
-Meta-repository for DriveThru RPG client libraries
+Meta-repository for DriveThru RPG SDK libraries for various languages
