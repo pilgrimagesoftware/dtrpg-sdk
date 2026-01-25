@@ -1,15 +1,15 @@
 [submodule "swift"]
 	path = swift
-	url = git@github.com:pilgrimagesoftware/dtrpg-api.swift.git
+	url = git@github.com:pilgrimagesoftware/dtrpg-client.swift.git
 [submodule "rust"]
 	path = rust
-	url = git@github.com:pilgrimagesoftware/dtrpg-api.rs.git
+	url = git@github.com:pilgrimagesoftware/dtrpg-client.rs.git
 [submodule "python"]
 	path = python
-	url = git@github.com:pilgrimagesoftware/dtrpg-api.py.git
+	url = git@github.com:pilgrimagesoftware/dtrpg-client.py.git
 [submodule "go"]
 	path = go
-	url = git@github.com:pilgrimagesoftware/dtrpg-api.go.git
-[submodule "docs"]
-	path = docs
-	url = git@github.com:pilgrimagesoftware/dtrpg-api-docs.git
+	url = git@github.com:pilgrimagesoftware/dtrpg-client.go.git
+[submodule "api"]
+	path = api
+	url = git@github.com:pilgrimagesoftware/dtrpg-api.git
