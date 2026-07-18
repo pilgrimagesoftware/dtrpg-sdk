@@ -13,3 +13,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:pilgrimagesoftware/dtrpg-api.git
+[submodule "js"]
+	path = js
+	url = git@github.com:pilgrimagesoftware/dtrpg-sdk.js.git
